@@ -42,8 +42,6 @@ Export capabilities for alerts and anomalies
 
 #Installation
 1.)Clone the repository:
-git clone https://github.com/your-repo/cyberguardian.git
-cd cyberguardian
 
 
 2.)Install the required packages:
